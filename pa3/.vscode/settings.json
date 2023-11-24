@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "/cs/local/bin/clang++",
+    "files.associations": {
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
